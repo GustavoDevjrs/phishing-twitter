@@ -17,6 +17,6 @@
 - Escolha a terceira template: ``` Twitter ```
 - URL para acessar o site clonado: (seu IP)
 
-### Resutados
+### Resultados
 ![image1](https://github.com/user-attachments/assets/e18fa66d-985f-4f1c-a137-d7a0cf6bcd7a)
 ![image2](https://github.com/user-attachments/assets/e932fc9b-6632-4ca6-83ef-7bcf2f4f1139)
